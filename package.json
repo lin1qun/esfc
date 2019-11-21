@@ -1,0 +1,18 @@
+{
+  "name": "zy/esfc",
+  "description": "es function",
+  "authors": [
+    {
+      "name": "lzy"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Zy\\Esfc\\": "src/"
+    }
+  }
+}
