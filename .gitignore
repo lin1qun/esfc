@@ -1,0 +1,16 @@
+.idea
+/vendor
+/composer.lock
+
+/Log/
+/Temp/
+/Temp2/
+/easyswoole
+
+dev.env
+
+produce.env
+
+/dev.php
+
+/produce.php
